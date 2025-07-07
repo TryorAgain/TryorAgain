@@ -34,24 +34,24 @@
 
 >It is a safty app by it offonline
 
--**Android Easter Egg**
+- **Android Easter Egg**
 
 **[You can click the link below to visit](https://github.com/hushenghao/AndroidEasterEggs)**
 >We can use it to know some interesting android easter eggs from the first to now.
 
--**VLC**
+- **VLC**
 
 **[You can click the link below to visit](https://github.com/videolan/vlc)**
 >No more to say it's a popular video player project on github
 
--**Markor**
+- **Markor**
 
 **[You can click the link below to visit](https://github.com/gsantner/markor)**
 >Markor is an app which can write markdown on android
 
 >you can see this readme is wrote by Markor
 
--**FileShare**
+- **FileShare**
 
 **[You can click the link below to visit](https://github.com/uebian/FileShare)**
 >This is an old project that we can share something on the same wi-fi .
